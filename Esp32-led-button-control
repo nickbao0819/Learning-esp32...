@@ -1,1 +1,0 @@
-This is an ESP32-based LED breathing light control system that supports multiple LED modes. Use a button to cycle through different LED states and control brightness using PWM.
